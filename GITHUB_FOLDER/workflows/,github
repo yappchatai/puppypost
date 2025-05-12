@@ -29,4 +29,4 @@ jobs:
         HOOBLY_USERNAME: ${{ secrets.HOOBLY_USERNAME }}
         HOOBLY_PASSWORD: ${{ secrets.HOOBLY_PASSWORD }}
       run: |
-        python hoobly_poster.py
+        python GITHUB_FOLDER/hoobly_poster.py

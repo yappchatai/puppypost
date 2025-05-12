@@ -1,0 +1,2 @@
+HOOBLY_USERNAME=your_hoobly_username
+HOOBLY_PASSWORD=your_hoobly_password

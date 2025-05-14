@@ -30,3 +30,4 @@ jobs:
         HOOBLY_PASSWORD: ${{ secrets.HOOBLY_PASSWORD }}
       run: |
         python hoobly_poster.py
+
